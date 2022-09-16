@@ -1,7 +1,7 @@
 # xcodebuild-swiftlog-error
 ### Description
 There was an error occurring with a Swift package, swift-log, when I was running an iOS CLI Build on Xcode 14.
-### Gitlab Issue
+### GitHub Issue
 - https://github.com/apple/swift-log/issues/234
 ### To replicate error:
 ```bash
